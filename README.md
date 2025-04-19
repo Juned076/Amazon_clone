@@ -1,3 +1,3 @@
 # new project
 
-This Projedt is based on HTML and css.
+This Project is based on HTML and css.
